@@ -1,0 +1,44 @@
+Son güncelleme: 17 Mart 2026
+
+Bu gizlilik politikası, Spam Engelleme uygulamasının kullanıcı verilerini nasıl işlediğini açıklar.
+
+Toplanan Veriler
+
+Spam Engelleme, kullanıcı gizliliğine öncelik verir. Uygulama aşağıdaki prensiplerle çalışır:
+
+Tüm mesaj filtreleme işlemleri tamamen cihaz üzerinde gerçekleştirilir.
+Mesaj içerikleri hiçbir sunucuya gönderilmez.
+Kişisel verileriniz üçüncü taraflarla paylaşılmaz.
+CoreML tabanlı yapay zeka modeli tamamen cihazınızda çalışır.
+Cihazda Saklanan Veriler
+
+Engelleme kurallarınız (kelimeler, numaralar, regex desenleri)
+Beyaz liste kayıtlarınız
+Zaman bazlı kural ayarlarınız
+Engelleme istatistikleri (toplam engellenen mesaj sayısı, kategori dağılımı)
+Uygulama tercihleri
+Bu veriler yalnızca cihazınızda saklanır ve isteğe bağlı olarak iCloud üzerinden kendi Apple cihazlarınız arasında senkronize edilebilir.
+
+iCloud Senkronizasyon
+
+iCloud senkronizasyonu etkinleştirildiğinde, engelleme kurallarınız ve ayarlarınız Apple'ın iCloud altyapısı üzerinden cihazlarınız arasında senkronize edilir. Bu özellik tamamen isteğe bağlıdır ve istediğiniz zaman kapatılabilir.
+
+SMS Filtreleme
+
+Uygulama, Apple'ın ILMessageFilterExtension API'sini kullanarak SMS mesajlarını filtreler. Filtreleme işlemi tamamen cihaz üzerinde yapılır. Mesaj içerikleri uygulama tarafından saklanmaz veya herhangi bir sunucuya iletilmez.
+
+Satın Alma İşlemleri
+
+Uygulama içi satın alma işlemleri Apple'ın StoreKit altyapısı üzerinden gerçekleştirilir. Ödeme bilgileriniz yalnızca Apple tarafından işlenir; uygulama ödeme bilgilerinize erişemez.
+
+Çocukların Gizliliği
+
+Uygulama, 13 yaşın altındaki çocuklardan bilerek kişisel bilgi toplamaz.
+
+Değişiklikler
+
+Bu gizlilik politikası zaman zaman güncellenebilir. Değişiklikler bu sayfada yayınlanacaktır.
+
+İletişim
+
+Sorularınız için: tolgamusto@gmail.com
